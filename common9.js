@@ -39,7 +39,7 @@ var prop = 'func';
  //   sdgdsg : 'str', // ВЛАСТИВІСТЬ
  //   func : function() {
 //console.log (this.sdgdsg);
-  //  }   // МЕТОД
+  //   }   // МЕТОД;
 
 //};
 //obj.func(); // - круглі скобки - це виклик функції чи метода
