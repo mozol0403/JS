@@ -38,7 +38,7 @@ var prop = 'func';
 //var obj = {
  //   sdgdsg : 'str', // ВЛАСТИВІСТЬ
  //   func : function() {
-        console.log (this.sdgdsg);
+//console.log (this.sdgdsg);
   //  }   // МЕТОД
 
 //};
