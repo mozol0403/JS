@@ -46,3 +46,9 @@ obj.func(); // - круглі скобки - це виклик функції ч
 
 // ОБ'ЯВЛЕНННЯ ГЛОБАЛЬНОСТІ змінних:
 //var MYAPP = {};
+
+var func = function() {
+    console.log( this );
+};
+func();
+
